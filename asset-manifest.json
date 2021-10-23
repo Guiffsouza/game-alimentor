@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f4a7f60f.chunk.css",
+    "main.js": "./static/js/main.d1b1a5f2.chunk.js",
+    "main.js.map": "./static/js/main.d1b1a5f2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.caa3b0aa.js",
+    "runtime-main.js.map": "./static/js/runtime-main.caa3b0aa.js.map",
+    "static/js/2.2a8f1a8c.chunk.js": "./static/js/2.2a8f1a8c.chunk.js",
+    "static/js/2.2a8f1a8c.chunk.js.map": "./static/js/2.2a8f1a8c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.f4a7f60f.chunk.css.map": "./static/css/main.f4a7f60f.chunk.css.map",
+    "static/js/2.2a8f1a8c.chunk.js.LICENSE.txt": "./static/js/2.2a8f1a8c.chunk.js.LICENSE.txt",
+    "static/media/alface.09a56cba.png": "./static/media/alface.09a56cba.png",
+    "static/media/cabeceira.471de369.jfif": "./static/media/cabeceira.471de369.jfif",
+    "static/media/cerveja.4f718791.png": "./static/media/cerveja.4f718791.png",
+    "static/media/cigarro.bda71ba6.svg": "./static/media/cigarro.bda71ba6.svg",
+    "static/media/fundo3.00f94753.png": "./static/media/fundo3.00f94753.png",
+    "static/media/hamburguer.b52f8e8a.svg": "./static/media/hamburguer.b52f8e8a.svg",
+    "static/media/legumes.2fc785b3.png": "./static/media/legumes.2fc785b3.png",
+    "static/media/morto.3a86c3b6.svg": "./static/media/morto.3a86c3b6.svg",
+    "static/media/nausea.d0e1d2a9.svg": "./static/media/nausea.d0e1d2a9.svg",
+    "static/media/personagem.ea64ca0c.svg": "./static/media/personagem.ea64ca0c.svg",
+    "static/media/pizza.7c65f215.svg": "./static/media/pizza.7c65f215.svg",
+    "static/media/triste.5fef703b.svg": "./static/media/triste.5fef703b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caa3b0aa.js",
+    "static/js/2.2a8f1a8c.chunk.js",
+    "static/css/main.f4a7f60f.chunk.css",
+    "static/js/main.d1b1a5f2.chunk.js"
+  ]
+}
